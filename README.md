@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Khandelwal</h1>
 <h3 align="center">Frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.istockphoto.com/photos/devops">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkcoder17&label=Profile%20views&color=0e75b6&style=flat" alt="rkcoder17" /> </p>
 
