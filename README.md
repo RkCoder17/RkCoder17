@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at https://rkcoder17.github.io/RK/](https://rkcoder17.github.io/RK/)
+- 👨‍💻 All of my projects are available at [https://rkcoder17.github.io/RK/](https://rkcoder17.github.io/RK/)
 
 - 📫 How to reach me **Rohankhandelwal2001@gmail.com**
 
